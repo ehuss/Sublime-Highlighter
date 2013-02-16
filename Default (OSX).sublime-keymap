@@ -1,0 +1,4 @@
+[
+	{ "keys": ["super+shift+h"], "command": "highlighter" },
+	{ "keys": ["super+escape"], "command": "unhighlighter" }
+]

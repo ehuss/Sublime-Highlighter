@@ -1,0 +1,17 @@
+[
+	{
+		"id": "edit",
+		"children":
+		[
+			{
+				"caption": "Highlight Selection",
+				"id": "highlight_selection",
+				"children":
+				[
+					{ "caption": "Highlight", "command": "highlighter" },
+					{ "caption": "Unhighlight All", "command": "unhighlighter" }
+				]
+			}
+		]
+	}
+]
